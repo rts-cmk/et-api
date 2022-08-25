@@ -1,10 +1,250 @@
 {
-	"products": [
-		{
-			"name": "thing"
-		},
-		{
-			"name": "another thing"
-		}
-	]
+  "products": [
+    {
+      "id": "1001",
+      "name": "apple",
+      "type": "Philippa",
+      "origin": "Spain",
+      "desc": "Text",
+      "weight": "10",
+      "amount": "20",
+      "price": "45"
+    },
+    {
+      "id": "1002",
+      "name": "apple",
+      "type": "Philippa",
+      "origin": "Spain",
+      "desc": "Text",
+      "weight": "10",
+      "amount": "20",
+      "price": "45"
+    },
+    {
+      "id": "1003",
+      "name": "apple",
+      "type": "Philippa",
+      "origin": "Spain",
+      "desc": "Text",
+      "weight": "10",
+      "amount": "20",
+      "price": "45"
+    },
+    {
+      "id": "1004",
+      "name": "apple",
+      "type": "Philippa",
+      "origin": "Spain",
+      "desc": "Text",
+      "weight": "10",
+      "amount": "20",
+      "price": "45"
+    },
+    {
+      "id": "1005",
+      "name": "apple",
+      "type": "Philippa",
+      "origin": "Spain",
+      "desc": "Text",
+      "weight": "10",
+      "amount": "20",
+      "price": "45"
+    },
+    {
+      "id": "1006",
+      "name": "apple",
+      "type": "Philippa",
+      "origin": "Spain",
+      "desc": "Text",
+      "weight": "10",
+      "amount": "20",
+      "price": "45"
+    },
+    {
+      "id": "1007",
+      "name": "apple",
+      "type": "Philippa",
+      "origin": "Spain",
+      "desc": "Text",
+      "weight": "10",
+      "amount": "20",
+      "price": "45"
+    },
+    {
+      "id": "1008",
+      "name": "apple",
+      "type": "Philippa",
+      "origin": "Spain",
+      "desc": "Text",
+      "weight": "10",
+      "amount": "20",
+      "price": "45"
+    },
+    {
+      "id": "1009",
+      "name": "apple",
+      "type": "Philippa",
+      "origin": "Spain",
+      "desc": "Text",
+      "weight": "10",
+      "amount": "20",
+      "price": "45"
+    },
+    {
+      "id": "1010",
+      "name": "apple",
+      "type": "Philippa",
+      "origin": "Spain",
+      "desc": "Text",
+      "weight": "10",
+      "amount": "20",
+      "price": "45"
+    },
+    {
+      "id": "1011",
+      "name": "apple",
+      "type": "Philippa",
+      "origin": "Spain",
+      "desc": "Text",
+      "weight": "10",
+      "amount": "20",
+      "price": "45"
+    },
+    {
+      "id": "1012",
+      "name": "apple",
+      "type": "Philippa",
+      "origin": "Spain",
+      "desc": "Text",
+      "weight": "10",
+      "amount": "20",
+      "price": "45"
+    },
+    {
+      "id": "1013",
+      "name": "apple",
+      "type": "Philippa",
+      "origin": "Spain",
+      "desc": "Text",
+      "weight": "10",
+      "amount": "20",
+      "price": "45"
+    }
+  ],
+  "customers": [
+    {
+      "id": "1001",
+      "name": "Simon Nyholm",
+      "address": {
+        "street": "Hallandsgade 18, 4. th",
+        "zip": "2300",
+        "city": "København S",
+        "email": "simonnyholm@hotmail.com",
+        "phone": "50541586"
+      }
+    },
+    {
+      "id": "1002",
+      "name": "Simone Nyholm",
+      "address": {
+        "street": "Hallandsgade 18, 4. th",
+        "zip": "2300",
+        "city": "København S",
+        "email": "simonenyholm@hotmail.com",
+        "phone": "50541582"
+      }
+    },
+    {
+      "id": "1003",
+      "name": "Simon Nyholm",
+      "address": {
+        "street": "Hallandsgade 18, 4. th",
+        "zip": "2300",
+        "city": "København S",
+        "email": "simonnyholm@hotmail.com",
+        "phone": "50541586"
+      }
+    },
+    {
+      "id": "1004",
+      "name": "Simon Nyholm",
+      "address": {
+        "street": "Hallandsgade 18, 4. th",
+        "zip": "2300",
+        "city": "København S",
+        "email": "simonnyholm@hotmail.com",
+        "phone": "50541586"
+      }
+    },
+    {
+      "id": "1005",
+      "name": "Simon Nyholm",
+      "address": {
+        "street": "Hallandsgade 18, 4. th",
+        "zip": "2300",
+        "city": "København S",
+        "email": "simonnyholm@hotmail.com",
+        "phone": "50541586"
+      }
+    },
+    {
+      "id": "1006",
+      "name": "Simon Nyholm",
+      "address": {
+        "street": "Hallandsgade 18, 4. th",
+        "zip": "2300",
+        "city": "København S",
+        "email": "simonnyholm@hotmail.com",
+        "phone": "50541586"
+      }
+    },
+    {
+      "id": "1007",
+      "name": "Simon Nyholm",
+      "address": {
+        "street": "Hallandsgade 18, 4. th",
+        "zip": "2300",
+        "city": "København S",
+        "email": "simonnyholm@hotmail.com",
+        "phone": "50541586"
+      }
+    },
+    {
+      "id": "1008",
+      "name": "Simon Nyholm",
+      "address": {
+        "street": "Hallandsgade 18, 4. th",
+        "zip": "2300",
+        "city": "København S",
+        "email": "simonnyholm@hotmail.com",
+        "phone": "50541586"
+      }
+    }
+  ],
+  "orders": [
+    {
+      "id": "10001",
+      "order-number": "20001",
+      "customerId": "1001",
+      "products": [{ "productId": "1001", "amount": "3" }]
+    },
+    {
+      "id": "10002",
+      "order-number": "20002",
+      "customerId": "1002",
+      "products": [{ "productId": "1003", "amount": "3" }]
+    },
+    {
+      "id": "10003",
+      "order-number": "20003",
+      "customerId": "1003",
+      "products": [{ "productId": "1010", "amount": "3" }]
+    },
+    {
+      "id": "10004",
+      "order-number": "20004",
+      "customerId": "1004",
+      "products": [{ "productId": "1011", "amount": "3" }]
+    }
+  ]
 }
