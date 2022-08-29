@@ -3,7 +3,7 @@
     {
       "id": "1001",
       "name": "Apple",
-      "type": "Philippa",
+      "type": "Denmark",
       "origin": "Spain",
       "desc": "Text",
       "weight": "10",
@@ -12,8 +12,8 @@
     },
     {
       "id": "1002",
-      "name": "Apple",
-      "type": "Philippa",
+      "name": "Mango",
+      "type": "Denmark",
       "origin": "Spain",
       "desc": "Text",
       "weight": "10",
@@ -22,8 +22,8 @@
     },
     {
       "id": "1003",
-      "name": "Banana",
-      "type": "Philippa",
+      "name": "Orange",
+      "type": "Denmark",
       "origin": "Spain",
       "desc": "Text",
       "weight": "10",
@@ -33,7 +33,27 @@
     {
       "id": "1004",
       "name": "Avocado",
-      "type": "Philippa",
+      "type": "Denmark",
+      "origin": "Spain",
+      "desc": "Text",
+      "weight": "10",
+      "amount": "20",
+      "price": "45"
+    },
+    {
+      "id": "1005",
+      "name": "Melon",
+      "type": "Denmark",
+      "origin": "Spain",
+      "desc": "Text",
+      "weight": "10",
+      "amount": "20",
+      "price": "45"
+    },
+    {
+      "id": "1006",
+      "name": "Avocado",
+      "type": "Denmark",
       "origin": "Spain",
       "desc": "Text",
       "weight": "10",
@@ -72,7 +92,7 @@
     },
     {
       "id": "1010",
-      "name": "Jackfruit",
+      "name": "Mandarin",
       "type": "Philippa",
       "origin": "Spain",
       "desc": "Text",
@@ -82,7 +102,7 @@
     },
     {
       "id": "1011",
-      "name": "Lemon",
+      "name": "Mango",
       "type": "Philippa",
       "origin": "Spain",
       "desc": "Text",
@@ -92,7 +112,7 @@
     },
     {
       "id": "1012",
-      "name": "Mandarin",
+      "name": "Mango",
       "type": "Philippa",
       "origin": "Spain",
       "desc": "Text",
@@ -100,10 +120,9 @@
       "amount": "20",
       "price": "45"
     },
-    
     {
       "id": "1013",
-      "name": "Mango",
+      "name": "Grapefruit",
       "type": "Philippa",
       "origin": "Spain",
       "desc": "Text",
@@ -153,7 +172,7 @@
     },
     {
       "id": "1018",
-      "name": "Papaya",
+      "name": "Mango",
       "type": "Philippa",
       "origin": "Spain",
       "desc": "Text",
@@ -221,7 +240,6 @@
       "amount": "20",
       "price": "45"
     },
-    
     {
       "id": "1025",
       "name": "Melon",
@@ -232,8 +250,6 @@
       "amount": "20",
       "price": "45"
     }
-    
-    
   ],
   "customers": [
     {
@@ -326,7 +342,7 @@
     },
     {
       "id": "1009",
-      "name": "Pedersen Jensen",
+      "name": "Sara Jensen",
       "address": {
         "street": "Hallandsgade 18, 4. th",
         "zip": "2300",
@@ -337,7 +353,7 @@
     },
     {
       "id": "10010",
-      "name": "Pedersen Jensen",
+      "name": "Clara Jensen",
       "address": {
         "street": "Hallandsgade 18, 5. th",
         "zip": "2500",
@@ -346,7 +362,6 @@
         "phone": "50541586"
       }
     }
-   
   ],
   "orders": [
     {
@@ -395,17 +410,6 @@
       ]
     },
     {
-      "id": "10004",
-      "order-number": "20004",
-      "customerId": "1004",
-      "products": [
-        {
-          "productId": "1011",
-          "amount": "3"
-        }
-      ]
-    },
-    {
       "id": "10005",
       "order-number": "20005",
       "customerId": "1005",
@@ -433,7 +437,7 @@
       "customerId": "1007",
       "products": [
         {
-          "productId": "1010",
+          "productId": "1008",
           "amount": "9"
         }
       ]
@@ -459,18 +463,6 @@
           "amount": "3"
         }
       ]
-    },
-    {
-      "id": "10004",
-      "order-number": "20004",
-      "customerId": "1010",
-      "products": [
-        {
-          "productId": "1011",
-          "amount": "3"
-        }
-      ]
     }
-    
   ]
 }
