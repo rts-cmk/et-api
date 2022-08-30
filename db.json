@@ -381,7 +381,7 @@
     },
     {
       "id": "10002",
-      "order-number": "20002",
+      "orderNumber": "20002",
       "customerId": "1002",
       "products": [
         {
@@ -400,7 +400,7 @@
     },
     {
       "id": "10003",
-      "order-number": "20003",
+      "orderNumber": "20003",
       "customerId": "1003",
       "products": [
         {
@@ -411,7 +411,7 @@
     },
     {
       "id": "10005",
-      "order-number": "20005",
+      "orderNumber": "20005",
       "customerId": "1005",
       "products": [
         {
@@ -422,7 +422,7 @@
     },
     {
       "id": "10006",
-      "order-number": "20006",
+      "orderNumber": "20006",
       "customerId": "1006",
       "products": [
         {
@@ -433,7 +433,7 @@
     },
     {
       "id": "10007",
-      "order-number": "20007",
+      "orderNumber": "20007",
       "customerId": "1007",
       "products": [
         {
@@ -444,7 +444,7 @@
     },
     {
       "id": "10008",
-      "order-number": "20008",
+      "orderNumber": "20008",
       "customerId": "1008",
       "products": [
         {
@@ -455,7 +455,7 @@
     },
     {
       "id": "10011",
-      "order-number": "20011",
+      "orderNumber": "20011",
       "customerId": "1009",
       "products": [
         {
