@@ -352,7 +352,7 @@
       }
     },
     {
-      "id": "10010",
+      "id": "1010",
       "name": "Clara Jensen",
       "address": {
         "street": "Hallandsgade 18, 5. th",
@@ -363,7 +363,7 @@
       }
     },
     {
-      "id": "10011",
+      "id": "1011",
       "name": "Kimmie Johansson",
       "address": {
         "street": "Hallandsgade 18, 5. th",
@@ -374,7 +374,7 @@
       }
     },
     {
-      "id": "10012",
+      "id": "1012",
       "name": "Jon Lehrmann",
       "address": {
         "street": "Hallandsgade 18, 5. th",
@@ -386,51 +386,6 @@
     }
   ],
   "orders": [
-    {
-      "id": "10001",
-      "order-number": "20001",
-      "customerId": "1001",
-      "products": [
-        {
-          "productId": "1001",
-          "amount": "3"
-        },
-        {
-          "productId": "1008",
-          "amount": "4"
-        }
-      ]
-    },
-    {
-      "id": "10002",
-      "orderNumber": "20002",
-      "customerId": "1002",
-      "products": [
-        {
-          "productId": "1009",
-          "amount": "5"
-        },
-        {
-          "productId": "1006",
-          "amount": "3"
-        },
-        {
-          "productId": "1005",
-          "amount": "4"
-        }
-      ]
-    },
-    {
-      "id": "10003",
-      "orderNumber": "20003",
-      "customerId": "1003",
-      "products": [
-        {
-          "productId": "1010",
-          "amount": "7"
-        }
-      ]
-    },
     {
       "id": "10005",
       "orderNumber": "20005",
@@ -482,34 +437,51 @@
       "products": [
         {
           "productId": "1011",
-          "amount": "3"
+          "amount": "12"
         }
       ]
     },
     {
       "id": "10012",
-      "order-number": "20012",
+      "orderNumber": "20012",
+      "customerId": "1009",
+      "products": [
+        {
+          "productId": "1011",
+          "amount": "3"
+        }
+      ]
+    },
+    {
+      "id": "10013",
+      "orderNumber": "20013",
+      "customerId": "1009",
+      "products": [
+        {
+          "productId": "1011",
+          "amount": "3"
+        }
+      ]
+    },
+    {
+      "id": "10014",
+      "orderNumber": "20014",
       "customerId": "1012",
       "products": [
         {
-          "productId": "1001",
-          "amount": "5"
-        },
-        {
-          "productId": "1002",
-          "amount": "2"
-        },
-        {
-          "productId": "1005",
+          "productId": "1011",
           "amount": "3"
-        },
+        }
+      ]
+    },
+    {
+      "id": "10015",
+      "orderNumber": "20015",
+      "customerId": "1009",
+      "products": [
         {
-          "productId": "1007",
-          "amount": "3"
-        },
-        {
-          "productId": "1008",
-          "amount": "4"
+          "productId": "1011",
+          "amount": "9"
         }
       ]
     }
