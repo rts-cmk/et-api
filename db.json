@@ -7,12 +7,12 @@
       "origin": "Spain",
       "desc": "Text",
       "weight": "10",
-      "amount": "20",
-      "price": "45.00"
+      "amount": "5",
+      "price": "40.00"
     },
     {
       "id": "1002",
-      "name": "Mango",
+      "name": "Apple",
       "type": "Juicy",
       "origin": "Spain",
       "desc": "Text",
@@ -44,7 +44,7 @@
       "id": "1005",
       "name": "Melon",
       "type": "Galia",
-      "origin": "Spain",
+      "origin": "Germany",
       "desc": "Text",
       "weight": "10",
       "amount": "20",
@@ -84,7 +84,7 @@
       "id": "1009",
       "name": "Durian",
       "type": "Philippa",
-      "origin": "Spain",
+      "origin": "Denmark",
       "desc": "Text",
       "weight": "10",
       "amount": "20",
@@ -104,16 +104,6 @@
       "id": "1011",
       "name": "Mango",
       "type": "Ataulfo",
-      "origin": "Spain",
-      "desc": "Text",
-      "weight": "10",
-      "amount": "20",
-      "price": "45.00"
-    },
-    {
-      "id": "1012",
-      "name": "Mango",
-      "type": "Nam Dok Mai",
       "origin": "Spain",
       "desc": "Text",
       "weight": "10",
@@ -201,16 +191,6 @@
       "price": "50.00"
     },
     {
-      "id": "1021",
-      "name": "Grapefruit",
-      "type": "Tampa auch",
-      "origin": "Spain",
-      "desc": "Text",
-      "weight": "10",
-      "amount": "20",
-      "price": "70.00"
-    },
-    {
       "id": "1022",
       "name": "Date Fruit",
       "type": "Gonga",
@@ -270,7 +250,7 @@
         "street": "Hallandsgade 18, 4. th",
         "zip": "2300",
         "city": "København S",
-        "email": "simonenyholm@hotmail.com",
+        "email": "Clara@hotmail.com",
         "phone": "50541582"
       }
     },
@@ -281,7 +261,7 @@
         "street": "Hallandsgade 18, 4. th",
         "zip": "2300",
         "city": "København S",
-        "email": "simonnyholm@hotmail.com",
+        "email": "Luna@hotmail.com",
         "phone": "50541586"
       }
     },
@@ -292,7 +272,7 @@
         "street": "Hallandsgade 18, 4. th",
         "zip": "2300",
         "city": "København S",
-        "email": "simonnyholm@hotmail.com",
+        "email": "Sofia@hotmail.com",
         "phone": "50541586"
       }
     },
@@ -303,7 +283,7 @@
         "street": "Hallandsgade 18, 4. th",
         "zip": "2300",
         "city": "København S",
-        "email": "simonnyholm@hotmail.com",
+        "email": "Pedersen@hotmail.com",
         "phone": "50541586"
       }
     },
@@ -314,7 +294,7 @@
         "street": "Hallandsgade 18, 4. th",
         "zip": "2300",
         "city": "København S",
-        "email": "simonnyholm@hotmail.com",
+        "email": "Victoria@hotmail.com",
         "phone": "50541586"
       }
     },
@@ -325,7 +305,7 @@
         "street": "Hallandsgade 18, 4. th",
         "zip": "2300",
         "city": "København S",
-        "email": "simonnyholm@hotmail.com",
+        "email": "Andrea@hotmail.com",
         "phone": "50541586"
       }
     },
@@ -336,7 +316,7 @@
         "street": "Hallandsgade 18, 4. th",
         "zip": "2300",
         "city": "København S",
-        "email": "simonnyholm@hotmail.com",
+        "email": "Elina@hotmail.com",
         "phone": "50541586"
       }
     },
@@ -347,7 +327,7 @@
         "street": "Hallandsgade 18, 4. th",
         "zip": "2300",
         "city": "København S",
-        "email": "simonnyholm@hotmail.com",
+        "email": "Sara@hotmail.com",
         "phone": "50541586"
       }
     },
@@ -358,7 +338,7 @@
         "street": "Hallandsgade 18, 5. th",
         "zip": "2500",
         "city": "København N",
-        "email": "simonnyholm@hotmail.com",
+        "email": "Clara@hotmail.com",
         "phone": "50541586"
       }
     },
@@ -369,7 +349,7 @@
         "street": "Hallandsgade 18, 5. th",
         "zip": "2500",
         "city": "København N",
-        "email": "simonnyholm@hotmail.com",
+        "email": "Kimmie@hotmail.com",
         "phone": "50541586"
       }
     },
@@ -380,7 +360,7 @@
         "street": "Hallandsgade 18, 5. th",
         "zip": "2500",
         "city": "København N",
-        "email": "simonnyholm@hotmail.com",
+        "email": "Jon@hotmail.com",
         "phone": "50541586"
       }
     }
@@ -483,33 +463,6 @@
         {
           "productId": "1011",
           "amount": "3"
-        }
-      ]
-    },
-    {
-      "id": "10012",
-      "order-number": "20012",
-      "customerId": "1012",
-      "products": [
-        {
-          "productId": "1001",
-          "amount": "5"
-        },
-        {
-          "productId": "1002",
-          "amount": "2"
-        },
-        {
-          "productId": "1005",
-          "amount": "3"
-        },
-        {
-          "productId": "1007",
-          "amount": "3"
-        },
-        {
-          "productId": "1008",
-          "amount": "4"
         }
       ]
     }
