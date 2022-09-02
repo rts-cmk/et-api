@@ -333,7 +333,7 @@
       "id": "1008",
       "name": "Elina Nielsen",
       "address": {
-        "street": "Hallandsgade 18, 4. th",
+        "street": "Valby 18, 4. th",
         "zip": "2300",
 
         "city": "København S",
@@ -356,7 +356,7 @@
       "id": "10010",
       "name": "Clara Jensen",
       "address": {
-        "street": "Hallandsgade 18, 5. th",
+        "street": "Valby 18, 5. th",
         "zip": "2500",
         "city": "København N",
         "email": "clara@hotmail.com",
